@@ -1,0 +1,19 @@
+{
+  "name": "topwoodstudios.github.io",
+  "version": "1.0.0",
+  "description": "Topwood Studios Portfolio Site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/topwood-studios/topwoodstudios.github.io.git"
+  },
+  "author": "Ben Wilson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/topwood-studios/topwoodstudios.github.io/issues"
+  },
+  "homepage": "https://github.com/topwood-studios/topwoodstudios.github.io#readme"
+}
