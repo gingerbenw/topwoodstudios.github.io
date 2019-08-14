@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Titillium+Web:300,700&display=swap');
+
+* {
+  font-family: 'Titillium Web', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
