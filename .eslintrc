@@ -13,6 +13,7 @@
     "react/jsx-indent-props": ["error", 2],
     "react/prefer-stateless-function": "off",
     "react/no-array-index-key": ["warn"],
+   "react/jsx-props-no-spreading": "off",
     "react/jsx-filename-extension": ["off"],
     "react/forbid-prop-types": ["off"],
     "jsx-a11y/label-has-for": ["off"],
